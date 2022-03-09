@@ -29,5 +29,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 
+![](C:\Users\Toshiba\Desktop\proje.png)
+
 
 
