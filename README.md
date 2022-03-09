@@ -2,8 +2,11 @@
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
+https://github.com/holcay92/kodluyoruzilkrepo.git
 
-![](https://github.com/holcay92/kodluyoruzilkrepo/blob/14cc601e735d57c58b48631ce7a472cb522391ef/projeRepo.png)
+
+
+![](alt text](http://url/to/projeRepo.png)
 
 ```c
 git clone https://github.com/holcay92/kodluyoruzilkrepo.git
