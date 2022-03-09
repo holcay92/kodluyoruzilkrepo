@@ -2,11 +2,9 @@
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-https://github.com/holcay92/kodluyoruzilkrepo.git
-
-
 
 ![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/projeRepo.png)
+
 
 ```c
 git clone https://github.com/holcay92/kodluyoruzilkrepo.git
