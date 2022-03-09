@@ -6,7 +6,7 @@ https://github.com/holcay92/kodluyoruzilkrepo.git
 
 
 
-![](alt text](![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/projeRepo.png))
+![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/projeRepo.png)
 
 ```c
 git clone https://github.com/holcay92/kodluyoruzilkrepo.git
