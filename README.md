@@ -29,7 +29,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 # Projenin Resmi #
-![](C:\Users\Toshiba\Desktop\proje.png)
+![](https://www.hizliresim.com/gdx2paj)
 
 
 
