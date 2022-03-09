@@ -28,7 +28,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-
+# Projenin Resmi #
 ![](C:\Users\Toshiba\Desktop\proje.png)
 
 
