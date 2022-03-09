@@ -6,7 +6,7 @@ https://github.com/holcay92/kodluyoruzilkrepo.git
 
 
 
-![](alt text](http://url/to/projeRepo.png)
+![](alt text](![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/projeRepo.png))
 
 ```c
 git clone https://github.com/holcay92/kodluyoruzilkrepo.git
